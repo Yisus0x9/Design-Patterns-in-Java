@@ -1,0 +1,8 @@
+factory y factory_method
+    Desventajas:
+        Implementar muchas clases o interfaces
+        Implementar demasiados if-else o switch muy largos en factory+
+        Implementar una clase por cada objeto que deseamos proveer
+        }
+##Abstract Factory
+    Clase padre y muchas hijas,
