@@ -1,6 +1,5 @@
 package org.designpatterns.creative.factory.abstract_factory;
 
-import org.designpatterns.creative.factory.abstract_factory.Enemy.Warrior;
 import org.designpatterns.creative.factory.abstract_factory.Factory.EnemyAbstractFactory;
 import org.designpatterns.creative.factory.abstract_factory.Factory.WarriorFactory;
 import org.designpatterns.creative.factory.abstract_factory.Factory.WizardFactory;
